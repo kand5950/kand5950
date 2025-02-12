@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **⚙️ Languages Stats:**
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kand5950&count_private=true&theme=buefy&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kand5950&count_private=true&theme=buefy&layout=donut&hide=ruby">
  </p>
 
 
